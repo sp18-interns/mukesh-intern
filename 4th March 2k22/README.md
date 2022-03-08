@@ -9,7 +9,7 @@
 - read about git
 - then konwing about complete process
 
-#Second half
+# Second half
 - solved number problem on jupyter notebook
 - praticing my code
  
