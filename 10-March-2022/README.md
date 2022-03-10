@@ -11,10 +11,10 @@
 
 ## videos
  functions-- 
-- Methods and the phython
+- Methods and the python
 - functions in python
 - arggs and kwargs in python
-# Doubt
+## Doubt
 No right now
 
  
