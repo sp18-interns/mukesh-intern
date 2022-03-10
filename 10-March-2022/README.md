@@ -7,11 +7,10 @@
 - Functions
 
 # Second half
-- solved quentions in hackerrank
+- solved quentions in hackerrank(https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true)
 
 ### videos
  functions-- completed
- hackerrank questions on progress-- 
 
 
  
