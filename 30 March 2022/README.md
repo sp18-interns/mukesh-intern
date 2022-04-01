@@ -20,7 +20,7 @@
 
 ### Doubts
 
-- Mistakes Cleared by our Team memebers
+- Mistakes Cleared by our Team members
 
 ### Links
 
@@ -38,7 +38,7 @@
 
 ### Assignment 
 
-- HAckerrank  Questions
+- Hackerrank  Questions
 
 ### Doubts
 
