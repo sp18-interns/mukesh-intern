@@ -21,3 +21,4 @@
 - [Date 01-April-2022](https://github.com/sp18-interns/mukesh-intern/tree/main/1-April-2022)
 - [Date 04-April-2022](https://github.com/sp18-interns/mukesh-intern/tree/main/4-April-2022)
 - [Date 05-April-2022](https://github.com/sp18-interns/mukesh-intern/tree/main/5-April-2022)
+- [Date 06-April-2022](https://github.com/sp18-interns/mukesh-intern/tree/main/6-April-2022)
