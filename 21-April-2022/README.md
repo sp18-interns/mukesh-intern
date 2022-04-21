@@ -3,10 +3,10 @@
 # 21 April 2022
 
 # First HAlf
-
+ ### Meeting with our team mates with our Mentors
   # TOPICS 
  *******************************
- OOP introduced
+ ✅ OOP introduced
 
  - 1.class object read carefully
  - 2.Everything in python is an object
@@ -25,13 +25,14 @@
  - N/A
 
 ## Videos
-- OOP
+- ✅ OOP
 ## Doubts
 - Discussed with Vishal sir
 
 # Second Half
 *********************************************
-  ## Geometery
+- ✅ Lectures in Python Tutorial - completed
+  ## 🔄 Geometery
 - Cartesian point 
 - Plotting Graph
 - find origin point
