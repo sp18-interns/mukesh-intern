@@ -32,7 +32,7 @@
 # Second Half
 *********************************************
 - ✅ Lectures in Python Tutorial - completed
-  ## 🔄 Geometery
+  ## 🔄 Geometry
 - Cartesian point 
 - Plotting Graph
 - find origin point
