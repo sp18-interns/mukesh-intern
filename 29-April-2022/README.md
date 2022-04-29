@@ -17,20 +17,20 @@
 ## Videos
 - OOPS Video by Naveen Reddy
 ## Doubts
--
+- N/A
 
 # Second Half
 *********************************************
 ## Topics ***
-- 
+- Documentation of oops-In progress
   ##
 
 ## links Read
-- 
+- Documentation  
 
 ## Videos
 - N/A
 ## Assignment
-- ✅
+- N/A
 ## Doubts 
 - N/A
