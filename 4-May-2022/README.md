@@ -55,6 +55,20 @@ EXERCISE -42
   - The Reason for super() -This is like saying, ”Make a class named SuperFun that inherits from the classes Child and BadStuff at
 the same time.”
 
+*********************************************************
+
+ ## 🔄Major points to Calculate Basic salary calculator
+ ******************************************************
+
+   - "Enter the no. of days." (GET days)
+   - "Enter Wages per day." (GET Wages)
+   - basic~ Wages*days
+   - PUT"Basic  + basic"
+   - PUT"HRA"+(basic*0.1)
+   - PUT"DA"+(basic*0.05)
+   - PUT "PF" + (basic*0.12)
+   - PUT "Net salary" + (basic+(basic*0.1)-(basic*0.05)-(basic*0.12)) 
+
 
 ### Videos
 
