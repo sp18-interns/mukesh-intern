@@ -1,7 +1,7 @@
 # mukesh-intern
 
 # 06 May 2022
-### Standardup call
+### Stand-Up call with mentors
 
 ## First Half
 ****
@@ -19,7 +19,7 @@
 
 ### Assignment
 
-- N/A
+- 🔄Basicsalary Account
 
 ### Doubts
 
