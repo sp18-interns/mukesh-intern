@@ -1,0 +1,6 @@
+#mylist = [1,2,3,4,5,6,7,8,9]
+def reverse(word):
+    x = ''
+    for i in range (len(word)):
+       x += Word[len(word)-1-1]
+return x
