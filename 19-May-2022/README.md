@@ -18,7 +18,7 @@
 ### Assignment
 
 - 🔄Practice set in python
- ### Stored Procedures fraction
+ ### Stored Procedures for SQL server
 - A stored procedure is a prepared SQL code that you can save, so the code can be reused over and over again.
 
 So if you have an SQL query that you write over and over again, save it as a stored procedure, and then just call it to execute it.
@@ -43,6 +43,7 @@ is passed.
 ### Topic
 - ✅Codingbat 
 - Fraction module python
+- python oops
 ### Videos
 
 - 🚫None
@@ -54,7 +55,7 @@ is passed.
 
 ### Doubts
 
-- 🚫Nothing
+- 🚫Nothing as of Now
 
 ### Links
 
