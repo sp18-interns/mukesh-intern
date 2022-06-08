@@ -57,4 +57,4 @@ In every iteration of selection sort, the minimum element (considering ascending
 
 ### Links
 
-- 
+- https://www.geeksforgeeks.org/generators-in-python/
