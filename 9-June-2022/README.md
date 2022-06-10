@@ -2,6 +2,18 @@
 
 # 09 JUNE 2022
 ### Stand-Up call with mentors
+
+## First half
+
+### Topic
+- 🚫None
+### Videos
+- 🚫None
+### Assignment
+- 🚫None
+### Links Read
+- 🚫None
+
 ## Second Half
 ### Topic 
 - ✅Hackerrank[Collections.namedtuple]
